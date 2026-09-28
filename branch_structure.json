@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/dynamic-fee-estimation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/dynamic-fee-estimation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/dynamic-fee-estimation",
+    "origin"
+  ]
+}
